@@ -19,6 +19,10 @@ layout: hextra-home
 
 <div class="hx-mt-6"></div>
 
+{{< cards >}}
+    {{< card link="blog" title="Read the latest blogs" image="hextra-doc.webp" subtitle="Usefull stuff, and not so usefull stuff" >}}
+  {{< /cards >}}
+
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Fast and Fulssl-featured"
