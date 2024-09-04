@@ -1,5 +1,5 @@
 ---
-title: Markdown Syntax Guide
+title: PowerBi
 date: 2020-01-01
 authors:
   - name: imfing
