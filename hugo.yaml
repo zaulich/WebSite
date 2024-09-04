@@ -54,6 +54,12 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
+    logo:
+      path: images/white_logo.svg
+      dark: images/black_logo.svg
+      link: /
+      width: 40
+      height: 20
 params:
   theme:
     # light | dark | system
