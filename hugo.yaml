@@ -46,7 +46,7 @@ menu:
         icon: x-twitter
     - name: Linkedin
       weight: 8
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/zaulich"
       params:
         icon: linkedin
 
