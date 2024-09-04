@@ -2,9 +2,8 @@
 linkTitle: "Documentation"
 title: Introduction
 ---
-
+<img src="Documentation.webp" alt="Blog" style="width: 100%; height: 100px; object-fit: cover;">
 👋 Hello! Welcome to the Hextra documentation!
-
 <!--more-->
 
 ## What is Hextra?

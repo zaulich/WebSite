@@ -18,7 +18,7 @@ layout: hextra-home
 
 {{< cards >}}
     {{< card link="blog" title="Read the latest blogs" image="Blog.webp" subtitle="Usefull stuff, and not so usefull stuff" >}}
-    {{< card link="blog" title="Documentation" image="Documentation.webp" subtitle="A pack of random documentaiton, and nice to have code" >}}
+    {{< card link="docs" title="Documentation" image="Documentation.webp" subtitle="A pack of random documentaiton, and nice to have code" >}}
   {{< /cards >}}
 
 {{< hextra/feature-grid >}}
