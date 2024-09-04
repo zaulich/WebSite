@@ -11,7 +11,7 @@ Hextra is built with a mindset focused on having a minimal footprint. To get sta
 
 ![Digital Ocean Banner](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png "App Platform Banner")
 
-![Screenshot](/images/screenshot.jpg "Screenshot of the t2heme")
+![Screenshot](https://raw.githubusercontent.com/zaulich/WebSite/main/images/screenshot.jpg "Screenshot of the t2heme")
 
 
 ## Credits
