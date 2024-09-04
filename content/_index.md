@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: Archub
 layout: hextra-home
 ---
 
