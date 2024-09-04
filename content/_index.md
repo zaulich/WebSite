@@ -17,8 +17,8 @@ layout: hextra-home
 <div class="hx-mt-6"></div>
 
 {{< cards >}}
-    {{< card link="blog" title="Read the latest blogs" image="https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png" subtitle="Usefull stuff, and not so usefull stuff" >}}
-    {{< card link="blog" title="Documentation" image="https://clevertap.com/wp-content/uploads/2020/02/technical-documentation-post-header1.jpg?w=768" subtitle="A pack of random documentaiton, and nice to have code" >}}
+    {{< card link="blog" title="Read the latest blogs" image="Blog.webp" subtitle="Usefull stuff, and not so usefull stuff" >}}
+    {{< card link="blog" title="Documentation" image="Documentation.webp" subtitle="A pack of random documentaiton, and nice to have code" >}}
   {{< /cards >}}
 
 {{< hextra/feature-grid >}}
