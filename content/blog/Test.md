@@ -1,6 +1,6 @@
 ---
-title: Testing Markdown
-date: 2023-03-15
+title: Image Test
+date: 2024-09-04
 authors:
   - name: imfing
     link: https://github.com/imfing
@@ -9,7 +9,7 @@ authors:
     link: https://github.com/graphmaster
     image: https://github.com/graphmaster.png
 tags:
-  - PowerShell
+  - WhereIsMyPicutres?
   - GraphAPI
   - Automation
 excludeSearch: false
@@ -19,7 +19,7 @@ In this post, we will explore how to use PowerShell create a simple write-output
 ![](/images/screenshot.jpg)
 <!--more-->
 # Hej
-
+![](/images/screenshot.jpg)
 Her vil jeg gerne have en tabel?=
 
 ```powershell
