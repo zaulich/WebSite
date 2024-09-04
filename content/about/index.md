@@ -8,8 +8,10 @@ Hextra is designed to be a simple, fast, and flexible theme for building modern 
 Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
 
 Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
-![Alt text](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png "a title")
-![Alt text](images/screenshot.jpg "a s")
+
+![Digital Ocean Banner](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png "App Platform Banner")
+
+![Screenshot](images/screenshot.jpg "Screenshot of the theme")
 
 ## Credits
 
@@ -20,4 +22,3 @@ Hextra cannot be built without the following tools and inspirations:
 - [Heroicons](https://heroicons.com/)
 - [Nextra](https://nextra.vercel.app/)
 - [Next.js](https://nextjs.org/)
-images/screenshot.jpg
