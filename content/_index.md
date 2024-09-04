@@ -20,7 +20,8 @@ layout: hextra-home
 <div class="hx-mt-6"></div>
 
 {{< cards >}}
-    {{< card link="blog" title="Read the latest blogs" image="hextra-doc.webp" subtitle="Usefull stuff, and not so usefull stuff" >}}
+    {{< card link="blog" title="Read the latest blogs" image="https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png" subtitle="Usefull stuff, and not so usefull stuff" >}}
+    {{< card link="blog" title="Read the latest blogs" image="https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png" subtitle="Usefull stuff, and not so usefull stuff" >}}
   {{< /cards >}}
 
 {{< hextra/feature-grid >}}
