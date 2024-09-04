@@ -28,7 +28,7 @@ menu:
       url: "https://github.com/imfing"
       weight: 3
     - name: Blog
-      url: "/blog
+      url: /blog
       weight: 4
     - name: Search
       weight: 5
