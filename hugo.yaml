@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Archub
 
 # import hextra as module
 module:
@@ -44,7 +44,7 @@ menu:
       url: "https://twitter.com/"
       params:
         icon: x-twitter
-         - name: Twitter
+         - name: Linkedin
       weight: 8
       url: "https://linkedin.com/"
       params:
