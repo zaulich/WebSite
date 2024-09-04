@@ -17,6 +17,7 @@ excludeSearch: false
 
 In this post, we will explore how to use PowerShell create a simple write-output
 ![](/images/screenshot.jpg)
+![](screenshot.jpg)
 <!--more-->
 # Hej
 ![](/images/screenshot.jpg)
