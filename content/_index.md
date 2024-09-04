@@ -9,21 +9,17 @@ layout: hextra-home
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
-{{% raw %}}
-<div class="hx-mt-6 hx-mb-6 hx-bg-gradient-to-r hx-from-indigo-500 hx-via-purple-500 hx-to-pink-500 hx-text-white hx-py-6 hx-rounded-lg">
-  {{< hextra/hero-headline >}}
-    Build modern websites 4th sep 1035<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
-  {{< /hextra/hero-headline >}}
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  Build modern websites 4th sep 1035&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+{{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx-mb-12 hx-bg-gray-100 hx-py-4 hx-rounded-lg">
-  {{< hextra/hero-subtitle >}}
-    Fast, batteries-included Hugo theme<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
-  {{< /hextra/hero-subtitle >}}
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
+{{< /hextra/hero-subtitle >}}
 </div>
-{{% /raw %}}
-
-![](hextra-doc.webp)
 
 <div class="hx-mb-6">
 {{< hextra/hero-button text="Get Started" link="docs" >}}
