@@ -1,5 +1,5 @@
 ---
-linkTitle: "Documentation"
+linkTitle: "Old stuff that comes with the template"
 title: Introduction
 ---
 
