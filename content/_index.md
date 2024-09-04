@@ -14,7 +14,9 @@ layout: hextra-home
   Build modern websites 4th sep 1035&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
 {{< /hextra/hero-headline >}}
 </div>
+
 ![](hextra-doc.webp)
+
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
   Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
