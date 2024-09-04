@@ -20,9 +20,9 @@ In this post, we will explore how to use PowerShell create a simple write-output
 ![](screenshot.jpg)
 <!--more-->
 # Hej
-![](/images/screenshot.jpg)
-Her vil jeg gerne have en tabel?=
+![](hextra-doc.webp)
 
+## Basic PowerShell Script
 ```powershell
 $Text = "hello world"
 Write-output $text
