@@ -44,6 +44,11 @@ menu:
       url: "https://twitter.com/"
       params:
         icon: x-twitter
+         - name: Twitter
+      weight: 8
+      url: "https://linkedin.com/"
+      params:
+        icon: linkedin
 
 params:
   navbar:
