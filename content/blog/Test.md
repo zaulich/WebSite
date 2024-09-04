@@ -16,7 +16,7 @@ excludeSearch: false
 ---
 
 In this post, we will explore how to use PowerShell create a simple write-output
-![Digital Ocean Banner](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png "App Platform Banner")
+![](/images/screenshot.jpg)
 <!--more-->
 # Hej
 
