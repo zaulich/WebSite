@@ -36,7 +36,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/zaulich/"
       params:
         icon: github
     - name: Twitter
@@ -52,7 +52,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
