@@ -2,16 +2,11 @@
 title: Archub
 layout: hextra-home
 ---
-<div class="hx-flex-1 hx-ml-6">
-    <img src="hextra-doc.webp" alt="Documentation image" class="hx-w-48 hx-rounded-md" />
-  </div>
-<div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites 4th sep 1035&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+  Build modern websitesss 4th sep 1035&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
 {{< /hextra/hero-headline >}}
 </div>
 
-![](hextra-doc.webp)
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
@@ -20,7 +15,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="docs" >}}
+{{< hextra/hero-button text="Go to blog..." link="blog" >}}
 </div>
 
 <div class="hx-mt-6"></div>
@@ -30,8 +25,8 @@ layout: hextra-home
     title="Fast and Full-featured"
     subtitle="Simple and easy to use, yet powerful and feature-rich."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="main/images/hextra-doc.webp"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    image="hextra-doc.webp"
+    imageClass="hx-top-[15%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-8 hx-rounded-full"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
