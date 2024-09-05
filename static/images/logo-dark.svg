@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <ellipse style="stroke: rgb(255, 255, 255); fill: none; stroke-width: 30px;" cx="247.13" cy="243.398" rx="217.689" ry="217.689" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
-  <ellipse style="stroke: rgb(255, 255, 255); fill: none; stroke-width: 31px;" cx="175.663" cy="211.879" rx="138.869" ry="138.869" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
-  <ellipse style="stroke: rgb(255, 255, 255); fill: none; stroke-width: 30px;" cx="251.124" cy="342.723" rx="117.594" ry="117.594" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
+  <ellipse style="stroke: rgb(237, 239, 241); fill: none; stroke-width: 30px;" cx="247.13" cy="243.398" rx="217.689" ry="217.689" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
+  <ellipse style="stroke: rgb(237, 239, 241); fill: none; stroke-width: 31px;" cx="175.663" cy="211.879" rx="138.869" ry="138.869" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
+  <ellipse style="stroke: rgb(237, 239, 241); fill: none; stroke-width: 30px;" cx="251.124" cy="342.723" rx="117.594" ry="117.594" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
 </svg>
