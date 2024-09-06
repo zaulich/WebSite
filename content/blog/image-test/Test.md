@@ -15,6 +15,7 @@ tags:
 excludeSearch: false
 ---
 In this post, we will explore how to use PowerShell create a simple write-output
+![](hextra-doc.webp)
 <!--more-->
 # Hej
 ![](hextra-doc.webp)
