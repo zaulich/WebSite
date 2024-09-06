@@ -1,0 +1,4 @@
+baseURL = "https://zaulich.github.io/notion-test/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "DoIt"
