@@ -17,7 +17,7 @@ layout: hextra-home
 <div class="hx-mt-6"></div>
 
 {{< cards >}}
-    {{< card link="blog" title="Read the latest blogs" image="Blog.webp" subtitle="Usefull stuff, and not so usefull stuff" >}}
+    {{< card link="blog" title="Blog" image="Blog.webp" subtitle="Read the latest blogs" >}}
     {{< card link="docs" title="Documentation" image="Documentation.webp" subtitle="A pack of random documentaiton, and nice to have code" >}}
   {{< /cards >}}
 
