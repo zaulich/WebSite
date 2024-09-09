@@ -2,23 +2,11 @@
 title: Archub
 layout: hextra-home
 ---
-{{< hextra/hero-headline >}}
- ArcHub.blog&nbsp;<br class="sm:hx-block hx-hidden" />
-{{< /hextra/hero-headline >}}
-</div>
+{{< hero-container image="HITSZOpenAuto.webp" subtitle="Stuff about Microsoft 365 & Azure" button_text="Read the newest blog!" button_link="blog" >}}
+  ArcHub.blog
+{{< /hero-container >}}
 
-<div class="hx-mb-12">
-{{< hextra/hero-subtitle >}}
-  Stuff about Microsoft 365 & Azure&nbsp;<br class="sm:hx-block hx-hidden" />
-{{< /hextra/hero-subtitle >}}
-</div>
-
-<div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="docs" >}}
-</div>
 <div class="hx-mt-6"></div>
-
-
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
@@ -41,7 +29,15 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(200,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs"
   >}}
-
+ {{< hextra/feature-card
+    title="PowerShell"
+    subtitle="Box of small nice to have stuff"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    image="Documentation.webp"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80 hx-rounded-3xl"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(200,53,74,0.15),hsla(0,0%,100%,0));"
+    link="docs/powershell/"
+  >}}
   
  
   
