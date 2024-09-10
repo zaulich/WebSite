@@ -2,7 +2,7 @@
 title: Archub
 layout: hextra-home
 ---
-{{< hero-container image="HITSZOpenAuto.webp" subtitle="Stuff about Microsoft 365 & Azure" button_text="Read the newest blog!" button_link="blog" >}}
+{{< hero-container image="HITSZOpenAuto.png" subtitle="Stuff about Microsoft 365 & Azure" button_text="Read the newest blog!" button_link="blog" >}}
   ArcHub.blog
 {{< /hero-container >}}
 
