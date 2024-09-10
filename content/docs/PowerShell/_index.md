@@ -2,13 +2,14 @@
 linkTitle: PowerShell
 title: PowerShell
 draft: false
+heroImage: null
 ---
 
 🧑‍💻 All the PowerShell stuff I always need, but can't remember...
 
 <!--more-->
 
-## What is Hextra?
+## What is Hextra?s
 ### View the PowerShell Code
 ```ps1 {linenos=table,linenostart=1}
 #updating and conneting to Online
@@ -17,8 +18,10 @@ Connect-MicrosoftTeamsss
 Connect-MsolService 
 ```
 
-# Your config
 
+# Your config
+###### YEa
+[Go to Linkedind](linkedin.com)
 
 
 
