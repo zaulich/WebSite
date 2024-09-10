@@ -1,0 +1,91 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "block",
+          "fieldGroup": [
+            "authors_group"
+          ]
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "excludeSearch",
+          "name": "excludeSearch",
+          "type": "boolean"
+        },
+        {
+          "title": "heroImage",
+          "name": "heroImage",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "linkTitle",
+          "name": "linkTitle",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/content/docs",
+      "previewPath": "docs"
+    },
+    {
+      "path": "[[workspace]]/content/blog",
+      "previewPath": "blog"
+    }
+  ],
+  "frontMatter.taxonomy.fieldGroups": [
+    {
+      "id": "authors_group",
+      "fields": [
+        {
+          "title": "name",
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "title": "link",
+          "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

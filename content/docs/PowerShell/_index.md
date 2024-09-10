@@ -1,6 +1,7 @@
 ---
-linkTitle: "PowerShell"
+linkTitle: PowerShell
 title: PowerShell
+draft: false
 ---
 
 🧑‍💻 All the PowerShell stuff I always need, but can't remember...
@@ -12,7 +13,7 @@ title: PowerShell
 ```ps1 {linenos=table,linenostart=1}
 #updating and conneting to Online
 Update-Module MicrosoftTeams
-Connect-MicrosoftTeams
+Connect-MicrosoftTeamsss
 Connect-MsolService 
 ```
 
