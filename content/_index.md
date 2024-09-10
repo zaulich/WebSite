@@ -2,8 +2,8 @@
 title: Archub
 layout: hextra-home
 ---
-{{< hero-container image="HITSZOpenAuto.png" subtitle="Stuff about Microsoft 365 & Azure" button_text="Read the newest blog!" button_link="blog" >}}
-  ArcHub.blog
+{{< hero-container image="HITSZOpenAuto.png" subtitle="" button_text="Read the newest blog!" button_link="blog" >}}
+  ArcHub.blog - stuff about Microsoft 365 & Azure
 {{< /hero-container >}}
 
 <div class="hx-mt-6"></div>
