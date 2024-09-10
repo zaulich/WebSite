@@ -7,9 +7,10 @@ authors:
     fieldGroup: authors_group
 tags: []
 excludeSearch: false
-heroImage: HITSZOpenAuto.webp
+heroImage: "/images/test.webp"
 
 ---
-![image](/images/test.webp)
+
 This is the summery
 <!--more-->
+# I think shit start working?

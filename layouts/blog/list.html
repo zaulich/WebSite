@@ -7,26 +7,38 @@
         <br class="hx-mt-1.5 hx-text-sm" />
         <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>
         <div class="content">{{ .Content }}</div>
+
         {{- $pages := partial "utils/sort-pages" (dict "page" . "by" site.Params.blog.list.sortBy "order" site.Params.blog.list.sortOrder) -}}
         {{- range $pages }}
           <div class="hx-mb-10">
-            <h3><a style="color: inherit; text-decoration: none;" class="hx-block hx-font-semibold hx-mt-8 hx-text-2xl " href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            {{- if site.Params.blog.list.displayTags -}}
-              {{ with .Params.tags }}
-                <p class="hx-opacity-50 hx-text-sm hx-leading-7">
-                  {{- range . }}<a class="hx-inline-block hx-mr-2">#{{ . }}</a>{{ end -}}
-                </p>
-              {{ end -}}
-            {{- end -}}
+            <!-- Post Title -->
+            <h3 class="hx-block hx-font-semibold hx-mt-8 hx-text-2xl">
+              <a style="color: inherit; text-decoration: none;" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h3>
+            
+            <!-- Post Date and Author -->
+            <p class="hx-opacity-50 hx-text-sm hx-leading-7">
+              {{ partial "utils/format-date" .Date }} · {{ with .Params.authors }}{{ (index . 0).name }}{{ end }}
+            </p>
+            
+            <!-- Hero Image (clickable with rounded corners) -->
+            {{ if .Params.heroImage }}
+              <a href="{{ .RelPermalink }}">
+                <img src="{{ .Params.heroImage }}" alt="{{ .Title }}" style="width: 100%; height: auto; max-height: 150px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
+              </a>
+            {{ end }}
+
+            <!-- Post Summary -->
             <p class="hx-opacity-80 hx-mt-4 hx-leading-7">{{- partial "utils/page-description" . -}}</p>
+
+            <!-- Read More Link -->
             <p class="hx-opacity-80 hx-mt-1 hx-leading-7">
               <a class="hx-text-[color:hsl(var(--primary-hue),100%,50%)] hx-underline hx-underline-offset-2 hx-decoration-from-font" href="{{ .RelPermalink }}">
                 {{- $readMore -}}
               </a>
             </p>
-            <p class="hx-opacity-50 hx-text-sm hx-mt-4 hx-leading-7">{{ partial "utils/format-date" .Date }}</p>
           </div>
-        {{ end -}}
+        {{ end }}
       </main>
     </article>
     <div class="max-xl:hx-hidden hx-h-0 hx-w-64 hx-shrink-0"></div>
