@@ -1,12 +1,11 @@
 ---
-title: Random
-date: 2024-09-10T13:27:48.480Z
+title: saddfsfsdaasdasdfsd
+date: 2024-09-10T17:55:41.775Z
 authors: ""
 tags: []
 excludeSearch: false
 heroImage: ""
 draft: true
 linkTitle: ""
-slug: random
+slug: 2024/saddfsfsdaasdasdfsd
 ---
-# THis is some randome shit

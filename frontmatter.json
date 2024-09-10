@@ -1,5 +1,6 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.slugTemplate": "{{year}}/{{title}}",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -62,10 +63,10 @@
       "previewPath": "docs"
     },
     {
-      "path": "[[workspace]]/content/blog",
-      
+      "path": "[[workspace]]/content/blog/",
+      "previewPath": "blog"
     }
-  ], 
+  ],
   "frontMatter.taxonomy.fieldGroups": [
     {
       "id": "authors_group",

@@ -78,4 +78,4 @@ params:
 
 permalinks:
   
-  blog: /:slug/
+  blog: blog/:slug/
