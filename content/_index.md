@@ -2,7 +2,7 @@
 title: Archub
 layout: hextra-home
 ---
-{{< hero-container image="images/Mlogos.png" subtitle="" button_text="Read the newest blog!" button_link="blog" >}}
+{{< hero-container image="images/Frontpage/Mlogos.png" subtitle="" button_text="Read the newest blog!" button_link="blog" >}}
   ArcHub.blog - stuff about Microsoft 365 & Azure
 {{< /hero-container >}}
 
