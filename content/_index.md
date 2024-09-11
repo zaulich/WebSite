@@ -2,7 +2,7 @@
 title: Archub
 layout: hextra-home
 ---
-{{< hero-container image="HITSZOpenAuto.png" subtitle="" button_text="Read the newest blog!" button_link="blog" >}}
+{{< hero-container image="images/frontpage/Mlogos.png" subtitle="" button_text="Read the newest blog!" button_link="blog" >}}
   ArcHub.blog - stuff about Microsoft 365 & Azure
 {{< /hero-container >}}
 
@@ -13,7 +13,7 @@ layout: hextra-home
     title="Blog"
     subtitle="Simple and easy to use, yet powerful and feature-rich."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="Blog.webp"
+    image="images/frontpage/Blog.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-10 hx-rounded-3xl "
     style="background: radial-gradient(ellipse at 100% 80%,rgba(10,10,10,0.15),hsla(0,0%,100%,0));"
     link="blog"
@@ -24,7 +24,7 @@ layout: hextra-home
     title="Documentation"
     subtitle="Compose with just Markdown. Enrich with Shortcode components."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="Documentation.webp"
+    image="images/frontpage/Documentation.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80 hx-rounded-3xl"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(200,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs"
@@ -33,7 +33,7 @@ layout: hextra-home
     title="PowerShell"
     subtitle="Box of small nice to have stuff"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="Documentation.webp"
+    image="images/frontpage/Documentation.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80 hx-rounded-3xl"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(200,53,74,0.15),hsla(0,0%,100%,0));"
     link="docs/powershell/"
