@@ -4,18 +4,45 @@
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
-      "pageBundle": true,
+      "pageBundle": false,
       "previewPath": null,
       "fields": [
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "date",
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
           "name": "date",
-          "type": "datetime"
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
         },
         {
           "title": "authors",
@@ -26,11 +53,6 @@
           ]
         },
         {
-          "title": "tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
           "title": "excludeSearch",
           "name": "excludeSearch",
           "type": "boolean"
@@ -38,13 +60,7 @@
         {
           "title": "heroImage",
           "name": "heroImage",
-          "type": "image",
-          "isPreviewImage": true
-        },
-        {
-          "title": "draft",
-          "name": "draft",
-          "type": "draft"
+          "type": "image"
         },
         {
           "title": "linkTitle",
@@ -79,6 +95,31 @@
         {
           "title": "link",
           "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "authors_group",
+      "fields": [
+        {
+          "title": "name",
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "title": "link",
+          "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "fieldGroup",
+          "name": "fieldGroup",
           "type": "string"
         },
         {

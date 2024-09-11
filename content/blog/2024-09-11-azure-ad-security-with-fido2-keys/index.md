@@ -12,12 +12,9 @@ heroImage: /images/Blogposts/images.jpg
 draft: false
 linkTitle: ""
 slug: 2024/strengthening-azure-ad-security-with-fido2-keys
+description: FIDO2 Security Keys offer a authentication solution for Azure AD. This enhances both security and user experience by eliminating the need for passwords.
 ---
 ![](images.jpg)
-
-FIDO2 Security Keys offer a passwordless authentication solution for Azure AD. This enhances both security and user experience by eliminating the need for passwords.
-
-<!--more-->
 ## What are FIDO2 Security Keys?
 
 FIDO2 is an open authentication standard that supports passwordless authentication. These keys can be used to authenticate users in a highly secure manner, using public key cryptography.
