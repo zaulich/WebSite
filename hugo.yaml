@@ -79,3 +79,14 @@ params:
 permalinks:
   
   blog: blog/:slug/
+
+
+frontmatter:
+  defaults:
+    - scope:
+        path: "blog"  # Gælder for alle indlæg under mappen "content/blog"
+      values:
+        authors:
+          - name: "Mads Zaulich"
+            link: "https://linkedin.com/in/zaulich"
+            image: "/images/zaulich.jpg"
