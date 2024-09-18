@@ -1,7 +1,7 @@
 ---
 linkTitle: PowerShell
 title: PowerShell
-draft: true
+draft: false
 heroImage: null
 ---
 
